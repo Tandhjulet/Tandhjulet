@@ -1,3 +1,3 @@
-- 👋 Jeg er en begyndende dansk dev. Har brugt Java i 8 mdr., og prøver at forbedre mine evner i andre sprog.
+- 👋 Jeg er en begyndende dansk dev. Prøver at forbedre udvide mine evner til mere end just Java.
 - 🌱 Jeg lærer pt. JavaScript & Python, samt i små dosisser HTML & CSS.
 - 📫 Tandhjulet#2364
