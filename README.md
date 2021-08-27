@@ -1,3 +1,3 @@
-- 👋 Jeg er en begyndende dansk dev. Prøver at forbedre udvide mine evner til mere end just Java.
+- 👋 Jeg er en dansk dev.
 - 🌱 Jeg lærer pt. JavaScript & Python, samt i små dosisser HTML & CSS.
 - 📫 Tandhjulet#2364
