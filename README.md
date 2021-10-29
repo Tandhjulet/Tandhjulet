@@ -1,3 +1,3 @@
 - 👋 Jeg er en dansk dev.
 - 🌱 Jeg lærer pt. JavaScript & Python, samt i små dosisser HTML & CSS.
-- 📫 Tandhjulet#2364
+- 📫 Tandhjulet#3264
