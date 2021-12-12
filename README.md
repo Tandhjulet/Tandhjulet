@@ -1,3 +1,3 @@
-- 👋 Jeg er en dansk dev.
-- 🌱 Jeg lærer pt. JavaScript & Python, samt i små dosisser HTML & CSS.
-- 📫 Tandhjulet#3264
+Danish developer with a particular interest for Hacking/Pentesting, Networking and Data Analasys.
+
+Tandhjulet#3264
