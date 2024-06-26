@@ -5,7 +5,7 @@
 <h4 align="left">I have a lot of different interests, but currently im working on:</h4>
 
   - <a href="https://lectimate.com/" target="_blank">Lectimate</a>: A subscription-based, <i>(soon-to-be)</i> cross-platform app, made for students using the danish school administration system Lectio. The app displays your schedule/calendar, absence, messages, id/study card and much more.
-  - <a href="https://github.com/Tandhjulet/Tandeva" target="_blank">Tandeva</a>: A very simple programming language made in Java. Currently it's not suited for production, but instead a personal educational project, however that might change in the future!
+  - <a href="https://github.com/Tandhjulet/Tandeva" target="_blank">Tandeva</a>: A passion/educational project for a very simple (and pretty inefficient) programming language made in Java. Currently it's unsuited for production.
 
 <br />
 <hr />
