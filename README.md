@@ -7,18 +7,7 @@
   - <a href="https://lectimate.com/" target="_blank">Lectimate</a>: A subscription-based, <i>(soon-to-be)</i> cross-platform app, made for students using the danish school administration system Lectio. The app displays your schedule/calendar, absence, messages, id/study card and much more.
   - <a href="https://github.com/Tandhjulet/Tandeva" target="_blank">Tandeva</a>: A passion/educational project for a very simple (and pretty inefficient) programming language made in Java. Currently it's unsuited for production.
 
-<br />
 <hr />
-<br />
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Tandhjulet&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
