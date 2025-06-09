@@ -2,26 +2,6 @@
 
 <hr />
 
-<h3 align="center">I have a lot of different interests, but some of my favorite (projects) are:</h4>
-
-<div align="center">
-  <a href="https://lectimate.com/" target="_blank">Lectimate</a>
-  <br />
-  A subscription-based, <i>(soon-to-be)</i> cross-platform app, made for students <br /> using the danish school administration system Lectio. The app displays your schedule/calendar, <br /> absence, messages, id/study card and much more.
-  <br />
-  <br />
-  <a href="https://github.com/Tandhjulet/Tandeva" target="_blank">Tandeva</a>
-  <br />
-  A passion/educational project for a very simple (and pretty inefficient) <br /> programming language made in Java. Currently it's unsuited for production.
-  <br />
-  <br />
-  <a href="https://github.com/Tandhjulet/Bit-Calculator" target="_blank">Bit Calculator</a>
-  <br />
-  A calculator that uses bit manipulation to perform calculations. Although not very <br /> performant compared to regular arithmetic operations, I still found the project very educational.
-</div>
-
-<hr />
-
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="java logo"  />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
@@ -49,7 +29,4 @@
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
   <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge" height="30" alt="gradle logo"  />
-
-  $${\color{gray}... \space and \space more \space [26/06/2024]}$$
-  
 </div>
